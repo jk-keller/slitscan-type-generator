@@ -16,12 +16,11 @@
 
 
 // COMMENT NEXT THREE LINES
-alert("Thanks for helping! Be patient...");
 var ssBasics = new Array("J","K");
 var ssLetters = "JK"
 
 /* UNCOMMENT TO INPUT YOUR OWN LETTERS */
-var ssLetters = prompt("What two letters would you like to do? No space between.", "JK");
+var ssLetters = prompt("What two letters would you like to do? (No space between) Please Be PATIENT...", "JK");
 /*
 if (ssLetters == "basic") {
 	var ssBasics = new Array("`","1","2","3","4","5","6","7","8","9","0","-","=","q","w","e","r","t","y","u","i","o","p","[","]","\\","a","s","d","f","g","h","j","k","l",";","'","z","x","c","v","b","n","m",",",".","/","~","!","@","#","$","%","^","&","*","(",")","_","+","Q","W","E","R","T","Y","U","I","O","P","{","}","|","A","S","D","F","G","H","J","K","L",":","\"","Z","X","C","V","B","N","M","<",">","?");
