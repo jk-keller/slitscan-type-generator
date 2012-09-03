@@ -44,6 +44,7 @@ function ssSlitscan(aLetter) {
 	// TO DO - CAN I GET A FILE BROWSER TO SHOW UP?
 	// TO DO - SPECIAL CHARACTER ESCAPING
 	var ssFile = new File("~/Slitscan-"+aLetter+"-"+textFonts.length+".ai");
+	// adding document as RGB causes pixel snap for new objects to be ON.
 	var ssDoc = app.documents.add(DocumentColorSpace.RGB);
 	var ssFonts = new Array();
 	var ssFontNames = new Array(); // is this for error-checking????
@@ -106,6 +107,7 @@ function ssSlitscan(aLetter) {
 
 			// add the shape to use the pathfinder with
 			var ssPath = ssFonts[j][0].pathItems.add();
+			ssPath.pixelAligned = false;
 			var ssPathTop = ssFonts[j][0].top;
 			var ssPathBottom = ssFonts[j][0].top - ssFonts[j][0].height;
 			var ssPathLeft = ssFonts[j][0].left;
