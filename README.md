@@ -4,17 +4,16 @@
 Illustrator scripts to generate type
 
 For more info & results: [Slitscan Type Generator](http://www.c71123.com/archive-2010/slitscan/)
+And feel free to send me results/issues!
 
 * * * *
 
 ### If you'd like to try this on your computer: ###
 
 **Pre-requisites:**
-<ol class="olABC">
-	<li>Adobe Illustrator (this version only tested on CS6)</li>
-	<li>Some patience (amount depends on size of font collection)</li>
-	<li>Acceptance that this may produce an error and not work for you the first time</li>
-</ol>
+A. Adobe Illustrator (this version only tested on CS6)
+B. Some patience (amount depends on size of font collection)
+C. Acceptance that this may produce an error and not work for you the first time
 
 **How to use the Slitscan type generator (as verbosely as I can think):**
 <ol class="olDecimal">
