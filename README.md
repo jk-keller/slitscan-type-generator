@@ -3,7 +3,7 @@
 
 Illustrator scripts to generate type
 
-For more info & results: [Slitscan Type Generator](http://www.c71123.com/archive-2010/slitscan/)
+For more info & results: [Slitscan Type Generator](http://jk-keller.com/slitscan-type-generator/)
 
 And feel free to send me results/issues!
 
