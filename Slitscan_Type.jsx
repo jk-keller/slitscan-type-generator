@@ -1,6 +1,6 @@
 // Slitscan Type Generator
 // created by JK Keller - Dilettante Coder
-// http://jk-keller.com/slitscan-type/
+// http://jk-keller.com/slitscan-type-generator/
 //
 // This version:
 // does not align the letterforms by the paths' bottom
