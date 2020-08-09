@@ -1,12 +1,14 @@
 // Slitscan Type Generator
-// created by JK Keller - Dilettante Coder
-// http://jk-keller.com/slitscan-type-generator/
+// created by A Nonlethal Jerk
+// https://anonlethal-jerk.github.io/
 //
 // This version:
 // does not align the letterforms by the paths' bottom
 // randomly colors each letterform
 // asks what letters you want to do
 //
+// v1.2 - 2009-03-03
+//    Ability to do multiple letters
 // v1.1 - 2008-10-19 - Update for PostTypography request
 //    Added prompt for letters
 // v1.0 - 2006-03-26
@@ -16,10 +18,11 @@
 
 
 // COMMENT NEXT THREE LINES
-var ssBasics = new Array("J","K");
+alert("Thanks for using! Be patient...");
+var ssBasics = new Array("nonlethal","jerk");
 var ssLetters = "JK"
 
-/* UNCOMMENT TO INPUT YOUR OWN LETTERS */
+/* COMMENT OUT TO USE WORDS INSTEAD OF CHOOSING YOUR OWN LETTERS */
 var ssLetters = prompt("What two letters would you like to do? (No space between) Please Be PATIENT...", "JK");
 /*
 if (ssLetters == "basic") {
@@ -27,6 +30,7 @@ if (ssLetters == "basic") {
 } else {
 */
 	// TO DO - check for duplicate letters
+	/* COMMENT OUT TO USE WORDS INSTEAD OF LETTERS */
 	var ssBasics = ssLetters.split("");
 /*
 }
