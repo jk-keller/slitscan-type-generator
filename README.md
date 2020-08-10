@@ -3,8 +3,6 @@
 
 Illustrator scripts to generate type
 
-For more info & results: [Slitscan Type Generator](http://jk-keller.com/slitscan-type-generator/)
-
 And feel free to send me results/issues!
 
 * * * *
@@ -33,4 +31,7 @@ And feel free to send me results/issues!
 12. Navigate to the AppleScript file titled `Slitscan_Type.scpt` and select it.
 13. **Wait...**
 14. There may be a few letters that do not get sliced because the pathfinder tool produced "no results". These should OK to delete.
-15. Save the files. Always save your files. The default location these files were saved in is your home folder
+15. Save the files. Always save your files. The default location these files were saved in is your home folder.
+
+Example of what your files will look similar to:
+![ lots of letters overlaid on one another with randomly colored vertical stripes ](https://github.com/anonlethal-jerk/jan-threaded-a-new-kroll/blob/master/J_K-output_example.jpg)
