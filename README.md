@@ -11,7 +11,7 @@ And feel free to send me results/issues!
 
 **Pre-requisites:**
 
-- Adobe Illustrator (this version only tested on CS6)
+- Adobe Illustrator (still seems to work in Adobe CC)
 - Some patience (amount depends on size of font collection)
 - Acceptance that this may produce an error and not work for you the first time
 
