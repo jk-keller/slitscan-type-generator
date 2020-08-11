@@ -26,12 +26,12 @@ And feel free to send me results/issues!
 7. Navigate to the javascript file titled `Slitscan_Type.jsx` and select it.
 8. **Wait...**
 9. When an alert pops up telling you how many fonts Illustrator thinks you have, click `OK`
-10. There will be two files that remain open in Illustrator; Go to the `View` menu and select `Preview` for both documents.
+10. There will be two files that remain open in Illustrator\*; Go to the `View` menu and select `Preview` for both documents.
 11. Go to the `File` Menu and choose `Scripts` >> `Other Scripts...`
 12. Navigate to the AppleScript file titled `Slitscan_Type.scpt` and select it.
 13. **Wait...**
 14. There may be a few letters that do not get sliced because the pathfinder tool produced "no results". These should OK to delete.
 15. Save the files. Always save your files. The default location these files were saved in is your home folder.
 
-Example of what your files will look similar to:
+\* Example of what your files will look similar to:
 ![ lots of letters overlaid on one another with randomly colored vertical stripes ](https://github.com/anonlethal-jerk/jan-threaded-a-new-kroll/blob/master/J_K-output_example.jpg)
